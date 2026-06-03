@@ -24,10 +24,9 @@ FoodBridge is a modern food donation platform that connects restaurants, grocery
 - Formspree
 
 ## Live Demo
-Add yOUR LIVE DEMO
+https://iqra-a7.github.io/foodbridge/
 
 ## GitHub Repository
-Add your repository link here
-
+https://github.com/Iqra-A7/foodbridge
 ## Author
 Iqra A
